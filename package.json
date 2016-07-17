@@ -1,6 +1,6 @@
 {
   "name": "redux-newrelic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Redux middleware for reporting actions and errors to newrelic.",
   "main": "lib/index.js",
   "scripts": {
